@@ -55,3 +55,7 @@ Swapchain: 1280x720, 3 images, VK_PRESENT_MODE_FIFO_KHR
 You'll see your own GPU there, of course. The validation layer is always on in these programs, so if nothing else shows up in the terminal, it didn't find anything wrong. If it does complain on your machine, I'd like to know, so feel free to open an issue with your GPU, driver and OS.
 
 I tested both parts on my laptop with an RTX 4050, on Linux with KDE Plasma on Wayland, using GCC 16.2 and Clang 23.1.
+
+## License
+
+MIT, so you can use this code in your own projects. See [LICENSE](LICENSE).
